@@ -1,2 +1,2 @@
 # hello_world
-Hello, world!
+Setting up a new environment.
